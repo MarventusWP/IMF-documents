@@ -1,0 +1,8 @@
+selenium
+chromedriver_autoinstaller
+# sqlite3
+PyPDF2
+bs4
+pandas
+requests
+termcolor
